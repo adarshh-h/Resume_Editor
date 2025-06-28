@@ -1,0 +1,1 @@
+{"name": "John Doe", "summary": "Experienced developer with 5+ years...", "experience": [{"id": 1, "role": "Senior Developer", "company": "Tech Corp", "duration": "2020-Present"}], "education": [{"id": 1, "degree": "B.Sc Computer Science", "university": "State University", "year": "2019"}], "skills": ["JavaScript", "React", "Python"]}
