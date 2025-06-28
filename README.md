@@ -28,22 +28,28 @@
    cd backend
 
 2. Create virtual environment (recommended):
+   ```bash
     python -m venv venv
     venv\Scripts\activate    # Windows
 
-3. Install dependencies:
+4. Install dependencies:
+   ```bash
     pip install -r requirements.txt
 
-4. Run the backend server:
+6. Run the backend server:
+   ```bash
    python main.py
 
 
 # Frontend Setup
 1. Navigate to frontend directory:
+   ```bash
     cd frontend
 
-2. Install dependencies:
+3. Install dependencies:
+   ```bash
     npm install
 
-3. Run the development server:
+5. Run the development server:
+   ```bash
     npm run dev
